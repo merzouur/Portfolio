@@ -9,8 +9,9 @@ import sql from '../assets/sql.png';
 import react from '../assets/react.png'
 import laravel from '../assets/laravel.png';
 import node from '../assets/node.png';
-
-
+import docker from '../assets/docker.png';
+import sympfony from '../assets/sympfony.png';
+import php from '../assets/php.png';
 
 
 const Skills = () => {
@@ -34,8 +35,12 @@ const Skills = () => {
             <p className='my-4'>CSS</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={php} alt='icon html' />
+            <p className='my-4'>PHP</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={sql} alt='icon html' />
-            <p className='my-4'></p>
+            <p className='my-4'>SQL</p>
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={Tailwind} alt='icon html' />
@@ -60,6 +65,14 @@ const Skills = () => {
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={node} alt='icon html' />
             <p className='my-4'>NodeJS</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={docker} alt='icon html' />
+            <p className='my-4'>Docker</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={sympfony} alt='icon html' />
+            <p className='my-4'>Sympfony</p>
           </div>
         </div>
       </div>
