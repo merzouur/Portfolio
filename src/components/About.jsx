@@ -13,10 +13,10 @@ const About = () => {
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold'>
-                        <p></p>
+                        <p>Anciennement professeur particulier de mathématiques et agent administratif en pharmacie, prochainement développeur chez vous (?)</p>
                     </div>
                     <div>
-                        <p>Je suis passioné d'informatique et de dev web.</p>
+                        <p>J'ai repris l'informatique en septembre par passion de manière sérieuse, et je n'ai sans cesse acquis des compétences, en très peu de temps, j'ai appris à coder des sites e-commerce, app mobile, et j'en passe. Mais le plus important pour moi reste la logique et la réflexion d'un développeur qui commence à prendre forme, et je souhaite l'améliorer en trouvant un poste d'alternance et poursuivre mon cursus. Je possède aussi des qualités importantes en dehors de la technique, mon travail en pharmacie pendant la pandémie m'a appris à être compréhensif, altruiste et aussi engagé et adroit dans mon travail. Maintenant je recherche simplement à travailler dans un domaine passionant qui est le développement Web.</p>
                     </div>
                 </div>
         </div>
