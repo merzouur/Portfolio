@@ -12,6 +12,7 @@ import node from '../assets/node.png';
 import docker from '../assets/docker.png';
 import sympfony from '../assets/sympfony.png';
 import php from '../assets/php.png';
+import java from '../assets/java.png';
 
 
 const Skills = () => {
