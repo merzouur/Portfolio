@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7f106cb6.css",
-    "main.js": "/Portfolio/static/js/main.5b3fe8f6.js",
+    "main.js": "/Portfolio/static/js/main.4d9a0e5f.js",
     "static/media/ClickerGame.png": "/Portfolio/static/media/ClickerGame.68ba567b0b233af7264d.png",
     "static/media/realestate.jpg": "/Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/sql.png": "/Portfolio/static/media/sql.05373d7fa42d849b9fd4.png",
     "static/media/laravel.png": "/Portfolio/static/media/laravel.a09977e696d4c681398d.png",
     "static/media/RM.jpg": "/Portfolio/static/media/RM.004c7e71117c8ce5efc4.jpg",
+    "static/media/MerzouguiRamziCV.pdf": "/Portfolio/static/media/MerzouguiRamziCV.12969d9ab0e2c7286d52.pdf",
     "static/media/workImg.jpeg": "/Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/logo.png": "/Portfolio/static/media/logo.9af3dfd32c6c4ee1c339.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/php.png": "/Portfolio/static/media/php.ae1920b853d286581d23.png",
@@ -21,10 +21,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.7f106cb6.css.map": "/Portfolio/static/css/main.7f106cb6.css.map",
-    "main.5b3fe8f6.js.map": "/Portfolio/static/js/main.5b3fe8f6.js.map"
+    "main.4d9a0e5f.js.map": "/Portfolio/static/js/main.4d9a0e5f.js.map"
   },
   "entrypoints": [
     "static/css/main.7f106cb6.css",
-    "static/js/main.5b3fe8f6.js"
+    "static/js/main.4d9a0e5f.js"
   ]
 }
