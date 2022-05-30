@@ -13,6 +13,8 @@ import docker from '../assets/docker.png';
 import sympfony from '../assets/sympfony.png';
 import php from '../assets/php.png';
 import java from '../assets/java.png';
+import python from '../assets/python.png';
+import linux from '../assets/Linux.png';
 
 
 const Skills = () => {
@@ -78,6 +80,14 @@ const Skills = () => {
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={java} alt='icon html' />
             <p className='my-4'>Java</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={python} alt='icon html' />
+            <p className='my-4'>Python</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={linux} alt='icon html' />
+            <p className='my-4'>Linux</p>
           </div>
         </div>
       </div>
