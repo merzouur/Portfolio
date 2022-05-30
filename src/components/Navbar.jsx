@@ -1,11 +1,10 @@
 import React, {useState} from 'react';
-import Logo from '../assets/logo.png';
 import  { FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
 import { HiOutlineMail} from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
 import {Link} from 'react-scroll'
 import RM from '../assets/RM.jpg';
-
+import CV from '../assets/MerzouguiRamziCV.pdf';
 const Navbar = () => {
     const [nav, setNav] = useState(false)
     const handleClick = () => setNav(!nav)
@@ -59,12 +58,12 @@ const Navbar = () => {
                  </a>
             </li>
             <li className=' w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-                 <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                 <a className='flex justify-between items-center w-full text-gray-300' href="mailto:merzou_r@etna-alternance.net">
                      Mail <HiOutlineMail size={30} /> 
                  </a>
             </li>
             <li className=' w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                 <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                 <a className='flex justify-between items-center w-full text-gray-300' href={CV}>
                  CV <BsFillPersonLinesFill size={30} /> 
                  </a>
             </li>
